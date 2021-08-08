@@ -35,7 +35,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adson-gomes-oliveira&repo=portfolio-adson&theme=tokyonight)](https://github.com/adson-gomes-oliveira/portfolio-adson)
 
-![snake file](https://github.com/Adson-Gomes-Oliveira/Adson-Gomes-Oliveira/blob/output/github-contribution-grid-snake.gif)
+![snake file](https://github.com/Adson-Gomes-Oliveira/Adson-Gomes-Oliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
