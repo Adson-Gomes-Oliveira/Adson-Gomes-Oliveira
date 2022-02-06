@@ -33,8 +33,6 @@
 
 ![Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=adson-gomes-oliveira&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adson-gomes-oliveira&langs_count=8&theme=tokyonight)](https://github.com/adson-gomes-oliveira/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adson-gomes-oliveira&repo=portfolio-adson&theme=tokyonight)](https://github.com/adson-gomes-oliveira/portfolio-adson)
-
 ![snake file](https://github.com/Adson-Gomes-Oliveira/Adson-Gomes-Oliveira/blob/output/github-contribution-grid-snake.svg)
 
 
