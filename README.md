@@ -12,7 +12,7 @@
 
 :books: Estudo Desenvolvimento Web na Trybe.
 
-:outbox_tray: Objetivos para 2021: Adquirir o máximo de conhecimento tanto em Hard como em Soft Skills na minha jornada pela Trybe.
+:outbox_tray: Objetivos para 2022: Adquirir o máximo de conhecimento tanto em Hard como em Soft Skills na minha jornada pela Trybe, além de conquistar minha primeira oportunidade no mercado de trabalho.
 
  
 
