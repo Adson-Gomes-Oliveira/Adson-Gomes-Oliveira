@@ -1,4 +1,4 @@
-## Adson Gomes Oliveiras (AtlasDev) <a href="https://imgbb.com/"><img width="10%" src="https://i.ibb.co/0q4kX6V/069f70c9fecb759ee0fd5b025bfa22-unscreen.gif" alt="069f70c9fecb759ee0fd5b025bfa22-unscreen" border="0"></a>
+## Adson Gomes Oliveiras (AtlasDev) <a href="https://imgbb.com/"><img width="15%" src="https://i.ibb.co/0q4kX6V/069f70c9fecb759ee0fd5b025bfa22-unscreen.gif" alt="069f70c9fecb759ee0fd5b025bfa22-unscreen" border="0"></a>
 
 Olá, boas vindas a você que está visitando meu repositório no GitHub, espero que tenha uma boa experiência nos meus projetos e saiba que estou aberto a qualquer sugestão e a responder quaisquer dúvidas. Boa navegação ! :laughing:
 <a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/2WBSNHB/My-project.png" alt="My-project" border="0"></a>
