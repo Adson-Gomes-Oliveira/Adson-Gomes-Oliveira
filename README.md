@@ -6,7 +6,7 @@ Olá, boas vindas a você que está visitando meu repositório no GitHub, espero
 <a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/2WBSNHB/My-project.png" alt="My-project" border="0"></a>
 
 ### Um pouco sobre mim...
-#### Aspecto Pessoal <a href="https://imgbb.com/"><img width="15%" align="right" src="https://i.ibb.co/0q4kX6V/069f70c9fecb759ee0fd5b025bfa22-unscreen.gif" alt="069f70c9fecb759ee0fd5b025bfa22-unscreen" border="0"></a>
+#### Aspecto Pessoal <a href="https://imgbb.com/"><img width="10%" align="right" src="https://i.ibb.co/0q4kX6V/069f70c9fecb759ee0fd5b025bfa22-unscreen.gif" alt="069f70c9fecb759ee0fd5b025bfa22-unscreen" border="0"></a>
 Como pôde ver no titúlo me chamo Adson Gomes Oliveira, tenho 21 anos, moro na Bahia, além de apaixonado por programação tenho também outras paixões, como desenhar, cantar e tocar, e até arrisco replicar um prato do MasterChef de vez em quando.
 - Filme favorito: Até o ultimo Homem;
 - Franquia de Games favorita: Tomb Raider;
