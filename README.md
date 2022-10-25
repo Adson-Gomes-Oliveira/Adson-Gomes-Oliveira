@@ -10,7 +10,7 @@ Já tive algumas experiências como pode conferir no meu [LinkedIn](https://www.
 
 Mais abaixo você vai encontrar pinados os projetos dos quais mais tenho orgulho, a melhoria é contínua, mas já estou muito orgulhoso de onde cheguei, vale a pena conferir, tem projetos divertidos e úteis, tenho certeza que vai gostar :)
 
-!! Os projetos fixados abaixo são projetos já completos que podem mas não necessariamente precisam de atualizações futuras, já os projetos não fixados podem ou não estar completos. !!
+!! Os projetos fixados já estão completos e podem mas não necessariamente precisam de atualizações futuras, já os projetos não fixados podem ou não estar completos. !!
 
 
 ### Stacks
