@@ -20,4 +20,5 @@ Fique a vontade para me contactar em qualquer rede social.
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5577981155625)](https://wa.me/5577981190132) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adson-gomes-oliveira/)]( https://www.linkedin.com/in/adson-gomes-oliveira/) 
 
-![Adson GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adson-gomes-oliveira&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adson-gomes-oliveira&langs_count=8&theme=tokyonight)](https://github.com/adson-gomes-oliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adson-gomes-oliveira&langs_count=8&theme=tokyonight)](https://github.com/adson-gomes-oliveira/github-readme-stats)
+![Adson GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=adson-gomes-oliveira&show_icons=true&theme=tokyonight)
